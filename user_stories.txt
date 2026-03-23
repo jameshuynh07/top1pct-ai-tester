@@ -1,0 +1,8 @@
+US-001: User can register a new account with email and password
+US-002: User can reset password via email link
+US-003: User can search for available cars by location and date
+US-004: User can filter cars by type (sedan, SUV, electric)
+US-005: User can view car details including price, specs and photos
+US-006: User can add a car to favourites
+US-007: User can complete a booking and receive confirmation email
+US-008: User can cancel a booking within 24 hours for full refund
