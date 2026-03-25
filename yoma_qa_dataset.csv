@@ -1,0 +1,6 @@
+input,output,feedback
+"Generate a test case for Yoma car booking","Test: Click book button. Assert page loads.","Too vague. Missing: date selection step, car selection step, confirmation assertion. No POM structure."
+"Generate a test case for Yoma login","test('login', async({page})=>{page.goto('/login');page.fill('#email','test@test.com');});","Missing password field. No assertion for successful login. No error case. Selector too fragile."
+"Generate a test case for Yoma car search","Search for cars and verify results appear.","Not executable code. Missing: location input, date picker interaction, results count assertion."
+"Generate a test case for Yoma payment","Fill payment form and submit.","Missing: card number field, expiry, CVV. No assertion for payment confirmation. No negative test for invalid card."
+"Generate a test case for Yoma car cancellation","Cancel booking and check status.","Missing: navigation to booking list, specific booking selection, cancellation confirmation modal assertion."
